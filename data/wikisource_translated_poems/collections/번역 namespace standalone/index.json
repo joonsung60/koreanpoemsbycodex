@@ -1,0 +1,90 @@
+[
+  {
+    "title": "삶이 그대를 속일지라도",
+    "filename": "삶이 그대를 속일지라도.txt",
+    "source_url": "https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%82%B6%EC%9D%B4_%EA%B7%B8%EB%8C%80%EB%A5%BC_%EC%86%8D%EC%9D%BC%EC%A7%80%EB%9D%BC%EB%8F%84",
+    "source_collection": "번역 namespace standalone",
+    "original_title": "",
+    "original_author": "알렉산드르 푸시킨",
+    "translator": [
+      "위키문헌"
+    ],
+    "translator_type": "wikisource_user_translation",
+    "original_language": "러시아어",
+    "license_or_status": "CC-BY-SA/GFDL or mixed; review_required",
+    "relation": "seed_page; seed",
+    "source_page_title": "번역:삶이 그대를 속일지라도",
+    "collection_dir": "collections/번역 namespace standalone"
+  },
+  {
+    "title": "애너벨 리",
+    "filename": "애너벨 리.txt",
+    "source_url": "https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%95%A0%EB%84%88%EB%B2%A8_%EB%A6%AC",
+    "source_collection": "번역 namespace standalone",
+    "original_title": "",
+    "original_author": "에드거 앨런 포",
+    "translator": [
+      "이호제",
+      "위키문헌"
+    ],
+    "translator_type": "wikisource_user_translation",
+    "original_language": "영어",
+    "license_or_status": "public_domain_claimed_by_source; review_required",
+    "relation": "seed_page; seed",
+    "source_page_title": "번역:애너벨 리",
+    "collection_dir": "collections/번역 namespace standalone"
+  },
+  {
+    "title": "금오신화",
+    "filename": "금오신화.txt",
+    "source_url": "https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EA%B8%88%EC%98%A4%EC%8B%A0%ED%99%94",
+    "source_collection": "번역 namespace standalone",
+    "original_title": "",
+    "original_author": "김시습(金時習)",
+    "translator": [
+      "위키문헌"
+    ],
+    "translator_type": "wikisource_user_translation",
+    "original_language": "",
+    "license_or_status": "public_domain_claimed_by_source; review_required",
+    "relation": "translation_namespace_scan",
+    "source_page_title": "번역:금오신화",
+    "collection_dir": "collections/번역 namespace standalone"
+  },
+  {
+    "title": "재버워키",
+    "filename": "재버워키.txt",
+    "source_url": "https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%9E%AC%EB%B2%84%EC%9B%8C%ED%82%A4",
+    "source_collection": "번역 namespace standalone",
+    "original_title": "",
+    "original_author": "루이스 캐럴",
+    "translator": [
+      "Timefly",
+      "위키문헌"
+    ],
+    "translator_type": "wikisource_user_translation",
+    "original_language": "",
+    "license_or_status": "CC-BY-SA/GFDL or mixed; review_required",
+    "relation": "translation_namespace_scan",
+    "source_page_title": "번역:재버워키",
+    "collection_dir": "collections/번역 namespace standalone"
+  },
+  {
+    "title": "홍길동전 (36장 완판본)",
+    "filename": "홍길동전 (36장 완판본).txt",
+    "source_url": "https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%ED%99%8D%EA%B8%B8%EB%8F%99%EC%A0%84_%2836%EC%9E%A5_%EC%99%84%ED%8C%90%EB%B3%B8%29",
+    "source_collection": "번역 namespace standalone",
+    "original_title": "",
+    "original_author": "허균",
+    "translator": [
+      "직지프로",
+      "위키문헌"
+    ],
+    "translator_type": "wikisource_user_translation",
+    "original_language": "",
+    "license_or_status": "review_required",
+    "relation": "translation_namespace_scan",
+    "source_page_title": "번역:홍길동전 (36장 완판본)",
+    "collection_dir": "collections/번역 namespace standalone"
+  }
+]
