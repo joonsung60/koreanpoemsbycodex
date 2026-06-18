@@ -1,0 +1,5698 @@
+[
+  {
+    "title": "박용철 번역시집",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "seed_page; search_hit",
+    "discovery": "seed"
+  },
+  {
+    "title": "박용철 번역시집/갈랜드",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/갈리엔",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/고시",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/괴테",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/귀테르만",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/깁슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/다우슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/데이비스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/디킨슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/랜더",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/레키",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/로웰",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/로제티",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/릴케",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/마컴",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/맥케이",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/메러디스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/메어",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/메이넬",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/모리스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/무어",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/밀레이",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/번스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/벨록",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/브라우닝",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/브라우닝 부인",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/브론테",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/브룩",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/브리지스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/사라 티스데일",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/사이먼스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/색동저고리",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/서순",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/스콰이어",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/스털링",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/스티븐스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/스티븐슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/습유",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/실레르",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/아널드",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/언더힐",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/언터마이어",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/예이츠",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/오샤네시",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/와일드",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/왓슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/웟슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/체스터턴",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/콜리지",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/키츠",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/키플링",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/테니슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/톰슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/퍼시",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/플레커",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/필립스",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/하디",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/하우스먼",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/하이네",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/후드",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/휘트모어",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/휠록",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection; search_hit",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "박용철 번역시집/괴테 시편",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "박용철 번역시집/도슨",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "박용철 번역시집/릴케 시편",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "박용철 번역시집/새라 리즈데일",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "박용철 번역시집/실레르 시편",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "박용철 번역시집/하이네 시편",
+    "source_collection": "박용철 번역시집",
+    "translator_type": "named_historical_translator",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_subpage"
+  },
+  {
+    "title": "번역:악의 꽃",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "seed_page",
+    "discovery": "seed"
+  },
+  {
+    "title": "번역:악의 꽃/난 그 벌거벗은 나날의 기억을 즐기지",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/병든 무사",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/봉화대",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/비상",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/알바트로스",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/조화",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/축복의 말",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/타락한 무사",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/독자에게",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:악의 꽃/나쁜 사제",
+    "source_collection": "번역:악의 꽃",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": true,
+    "relation": "same_collection",
+    "discovery": "seed_link"
+  },
+  {
+    "title": "번역:삶이 그대를 속일지라도",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "seed_page",
+    "discovery": "seed"
+  },
+  {
+    "title": "번역:애너벨 리",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "seed_page",
+    "discovery": "seed"
+  },
+  {
+    "title": "박용철 전집",
+    "source_collection": "박용철 전집",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"번역시집\""
+  },
+  {
+    "title": "글로벌 세계 대백과사전/언어I·한국문학·논술/아시아 문학/일본 문학/근 대",
+    "source_collection": "글로벌 세계 대백과사전/언어I·한국문학·논술/아시아 문학/일본 문학",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"번역시집\""
+  },
+  {
+    "title": "글로벌 세계 대백과사전/언어I·한국문학·논술/현대 문학/현대 전기 문학/근대 문예사조와 본격 문학기",
+    "source_collection": "글로벌 세계 대백과사전/언어I·한국문학·논술/현대 문학/현대 전기 문학",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"번역시집\""
+  },
+  {
+    "title": "글로벌 세계 대백과사전/인명사전/세 계 인 명/ㅋ",
+    "source_collection": "글로벌 세계 대백과사전/인명사전/세 계 인 명",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"번역 시집\""
+  },
+  {
+    "title": "글로벌 세계 대백과사전/인명사전/한 국 인 명/ㅇ",
+    "source_collection": "글로벌 세계 대백과사전/인명사전/한 국 인 명",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"번역 시집\""
+  },
+  {
+    "title": "박용철 산문집/시의 명칭과 성질",
+    "source_collection": "박용철 산문집",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시편\" \"역자\""
+  },
+  {
+    "title": "번역:시편",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시편\" \"역자\""
+  },
+  {
+    "title": "번역:하타요가프라디피카/2",
+    "source_collection": "번역:하타요가프라디피카",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시편\" \"역자\""
+  },
+  {
+    "title": "박용철 산문집/베르테르의 설움",
+    "source_collection": "박용철 산문집",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "중국문학오십년사",
+    "source_collection": "중국문학오십년사",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "위서/권100",
+    "source_collection": "위서",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "번역:서경/요전",
+    "source_collection": "번역:서경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "번역:혈의 누",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "백발",
+    "source_collection": "백발",
+    "translator_type": "unknown",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "번역:하타요가프라디피카/3",
+    "source_collection": "번역:하타요가프라디피카",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "search_hit",
+    "discovery": "search:\"시집\" \"역자\""
+  },
+  {
+    "title": "번역:게티즈버그 연설",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:고 에다",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:고락샤 샤타카",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:고려사",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:고려사/권001",
+    "source_collection": "번역:고려사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/1872년 독일어판 서문",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/1883년 독일어판 서문",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/1890년 독일어판 서문",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/각종 반정부당들에 대한 공산주의자의 태도",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/부르주아와 프롤레타리아",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/사회주의와 공산주의 문헌",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/서문",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공산당 선언/프롤레타리아와 공산주의자",
+    "source_collection": "번역:공산당 선언",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:공상행정관리기구의 독점협의행위의 금지에 관한 규정 (폐지)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:국기 및 국가에 관한 법률",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:국제연합 안전보장이사회 결의 제476호",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:국제연합 안전보장이사회 결의 제478호",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:금오신화",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:기독교 강요",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:네크로노미콘의 역사",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:논어",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:논어/위령공제십오",
+    "source_collection": "번역:논어",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:논어/위정제이",
+    "source_collection": "번역:논어",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:논어/학이제일",
+    "source_collection": "번역:논어",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:니알랏호텝",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:대사 선포의 권능과 효력에 대한 마르틴 루터 박사의 논쟁",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:대한민국 콜센터의 코로나바이러스감염증-19 집단감염",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:대헌장",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:도덕경",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:독일연방공화국 불공정경쟁법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:독점협의 금지 잠정시행 규정",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:돈키호테",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:동물 농장",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:라자 요가",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:라자 요가/제2장",
+    "source_collection": "번역:라자 요가",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:라자 요가/제3장",
+    "source_collection": "번역:라자 요가",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:라자 요가/제4장",
+    "source_collection": "번역:라자 요가",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제1장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제2장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제3장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제4장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제5장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제6장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제7장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제8장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 1장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 2장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 3장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 4장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 5장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 6장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:로빈슨 크루소/제 7장",
+    "source_collection": "번역:로빈슨 크루소",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:맥스웰의 전기동역학 방정식의 새로운 형식적 해석",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:맹자",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:맹자/양혜왕 상",
+    "source_collection": "번역:맹자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:맹자/양혜왕 하",
+    "source_collection": "번역:맹자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:모비딕/1장",
+    "source_collection": "번역:모비딕",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/법의",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/사과",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/삼변",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/상동하",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/상현상",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/상현중",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/소염",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/수신",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/친사",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:묵자/칠환",
+    "source_collection": "번역:묵자",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:물리학의 기초: 첫번째 발표",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:물체의 관성은 에너지 함량에 의존하는가?",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:미륵불광사사적",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:민법 (일본)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:민사소송법 (헤이세이 15년 법률 제108호)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/10장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/11장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/12장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/13장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/14장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/15장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/16장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/17장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/18장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/1장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/2장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/3장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/4장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/5장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/6장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/7장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/8장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:바가바드 기타/9장",
+    "source_collection": "번역:바가바드 기타",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:반야바라밀다심경",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:본방 외 출신자에 대한 부당한 차별적 언동의 해소를 향한 노력의 추진에 관한 법률",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:본방 외 출신자에 대한 부당한 차별적 언동의 해소를 향한 대응의 추진에 관한 법률",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:부당경품류 및 부당표시방지법 제4조 제2항의 운용지침 (2003년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:불기 2554년 국회 해산 칙령",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:빛의 진행에 대한 중력의 영향에 대하여",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기/권001",
+    "source_collection": "번역:사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기/권002",
+    "source_collection": "번역:사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기/권003",
+    "source_collection": "번역:사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기/권013",
+    "source_collection": "번역:사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사기/권115",
+    "source_collection": "번역:사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사서장구집주",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사서장구집주/논어집주 권일",
+    "source_collection": "번역:사서장구집주",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:사서장구집주/맹자집주 권일",
+    "source_collection": "번역:사서장구집주",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권01",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권02",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권03",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권04",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권04/법흥왕",
+    "source_collection": "번역:삼국사기/권04",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권05",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권06",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권07",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권08",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권09",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권09/경덕왕",
+    "source_collection": "번역:삼국사기/권09",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권10",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권10/애장왕",
+    "source_collection": "번역:삼국사기/권10",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권11",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권11/헌강왕",
+    "source_collection": "번역:삼국사기/권11",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권12",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권12/경순왕",
+    "source_collection": "번역:삼국사기/권12",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권13",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권13/유리왕",
+    "source_collection": "번역:삼국사기/권13",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권14",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권15",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권16",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권17",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권18",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권18/고국양왕",
+    "source_collection": "번역:삼국사기/권18",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권18/광개토왕",
+    "source_collection": "번역:삼국사기/권18",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권18/소수림왕",
+    "source_collection": "번역:삼국사기/권18",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권19",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권20",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권20/건무왕",
+    "source_collection": "번역:삼국사기/권20",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권20/영양왕",
+    "source_collection": "번역:삼국사기/권20",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권21",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권22",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권23",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권24",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권24/근초고왕",
+    "source_collection": "번역:삼국사기/권24",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권24/침류왕",
+    "source_collection": "번역:삼국사기/권24",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권25",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권26",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권26/성왕",
+    "source_collection": "번역:삼국사기/권26",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권27",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권27/무왕",
+    "source_collection": "번역:삼국사기/권27",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권28",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권29",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권30",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권31",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권32",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권32/악",
+    "source_collection": "번역:삼국사기/권32",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권32/제사",
+    "source_collection": "번역:삼국사기/권32",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권33",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권33/거기",
+    "source_collection": "번역:삼국사기/권33",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권33/기용",
+    "source_collection": "번역:삼국사기/권33",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권33/옥사",
+    "source_collection": "번역:삼국사기/권33",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권34",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권35",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권36",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권38",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권39",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권40",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권41",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권42",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권43",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44/김인문",
+    "source_collection": "번역:삼국사기/권44",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44/사다함",
+    "source_collection": "번역:삼국사기/권44",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44/이사부",
+    "source_collection": "번역:삼국사기/권44",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44/장보고 정년",
+    "source_collection": "번역:삼국사기/권44",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권44/흑치상지",
+    "source_collection": "번역:삼국사기/권44",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권45",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권46",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권46/최치원",
+    "source_collection": "번역:삼국사기/권46",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권47",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/권50",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국사기/진삼국사기표",
+    "source_collection": "번역:삼국사기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사/권제1",
+    "source_collection": "번역:삼국유사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사/권제2",
+    "source_collection": "번역:삼국유사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사/권제3",
+    "source_collection": "번역:삼국유사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사/권제4",
+    "source_collection": "번역:삼국유사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국유사/권제5",
+    "source_collection": "번역:삼국유사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:삼국지 (진수)/권01",
+    "source_collection": "번역:삼국지 (진수)",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:서경",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:서경/무성",
+    "source_collection": "번역:서경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:서경/순전",
+    "source_collection": "번역:서경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:서경/우공",
+    "source_collection": "번역:서경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:서경/이훈",
+    "source_collection": "번역:서경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:선조소경대왕수정실록/11년",
+    "source_collection": "번역:선조소경대왕수정실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:세종장헌대왕실록/148권",
+    "source_collection": "번역:세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:세종장헌대왕실록/149권",
+    "source_collection": "번역:세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:세종장헌대왕실록/150권",
+    "source_collection": "번역:세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:셰익스피어 이야기/리어왕",
+    "source_collection": "번역:셰익스피어 이야기",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/머리그림",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/제1장",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/제2장",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/제3장",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/제목",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:소공녀/표지",
+    "source_collection": "번역:소공녀",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:손자병법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/들어가며",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/미적분 공식표",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/연습문제 해답",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제10장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제11장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제12장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제13장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제14장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제15장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제16장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제17장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제18장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제19장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제1장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제20장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제21장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제22장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제2장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제3장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제4장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제5장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제6장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제7장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제8장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:쉽게 배우는 미적분/제9장",
+    "source_collection": "번역:쉽게 배우는 미적분",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:스페인 불공정경쟁에 관한 1991년 1월 10일 법률 제3호",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:시경",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:시경/당풍",
+    "source_collection": "번역:시경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:시경/영대",
+    "source_collection": "번역:시경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:시경/위풍 (지킬 위)",
+    "source_collection": "번역:시경",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:신 에다",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:신비의 섬",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:신비의 섬/Chapter 1",
+    "source_collection": "번역:신비의 섬",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아나키스트 FAQ",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아나키스트 FAQ/아나코 캐피탈리즘은 아나키즘의 한 형태인가?",
+    "source_collection": "번역:아나키스트 FAQ",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아나키스트 FAQ/아나키스트의 사회는 어떤 모습인가?",
+    "source_collection": "번역:아나키스트 FAQ",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아인슈타인-실라르드 편지",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아인슈타인의 이론에 따른 질점의 중력장에 대하여",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아일랜드 공화국 선포",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:아자토스",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:어리출궁항의문",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:어제월인석보서",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:에티카 (스피노자)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:에티카 (스피노자)/신에 대하여",
+    "source_collection": "번역:에티카 (스피노자)",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:엥케이리디온",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:영국 2008년 오인유발 마케팅으로부터 사업보호에 관한 규칙",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제10장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제11장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제12장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제13장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제14장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제15장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제16장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제17장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제18장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제19장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제1장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제20장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제21장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제22장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제23장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제24장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제2장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제3장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제4장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제5장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제6장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제7장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제8장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:오즈의 마법사/제9장",
+    "source_collection": "번역:오즈의 마법사",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:와이탕이 조약",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:운동체의 전기동역학에 대하여",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:위대한 개츠비 (1925)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:유식삼십송",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/목차",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/서문",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제10장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제11장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제12장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제1장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제2장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제3장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제4장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제5장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제6장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제7장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제8장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/제9장",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:이상한 나라의 앨리스/표지",
+    "source_collection": "번역:이상한 나라의 앨리스",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:인간 본성과 행동",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:인간 본성과 행동/PART2",
+    "source_collection": "번역:인간 본성과 행동",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:인간 본성과 행동/PART3",
+    "source_collection": "번역:인간 본성과 행동",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:인간 본성과 행동/PART4",
+    "source_collection": "번역:인간 본성과 행동",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일반 상대성 이론에 대하여",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일반 상대성 이론에 대한 우주론적 고찰",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일반 상대성 이론을 통한 수성 근일점 운동의 설명",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일반 상대성 이론의 기초",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일반인을 위한 파이썬 지침서",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:일한병합 100년에 즈음한 총리 담화",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:임금·가격·이윤",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:임노동과 자본",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:재버워키",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:전출사표",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:전후 50주년의 종전기념일을 맞아",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:제74회 제국의회 시정방침 연설",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:조선왕조실록/선조소경대왕수정실록/11년",
+    "source_collection": "번역:조선왕조실록/선조소경대왕수정실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:조선왕조실록/세종장헌대왕실록/148권",
+    "source_collection": "번역:조선왕조실록/세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:조선왕조실록/세종장헌대왕실록/149권",
+    "source_collection": "번역:조선왕조실록/세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:조선왕조실록/세종장헌대왕실록/150권",
+    "source_collection": "번역:조선왕조실록/세종장헌대왕실록",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:조영수호통상조약",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권100 소자지서 邵子之書",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권101 정자문인 程子門人",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권102 양씨문인 楊氏門人",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권103 나씨문인 羅氏門人",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권104 주자1 朱子一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권105 주자2 朱子二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권106 주자3 朱子三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권107 주자4 朱子四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권108 주자5 朱子五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권109 주자6 朱子六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권10 학4 學四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권110 주자7 朱子七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권111 주자8 朱子八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권112 주자9 朱子九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권113 주자10 朱子十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권114 주자11 朱子十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권115 주자12 朱子十二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권116 주자13 朱子十三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권117 주자14 朱子十四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권118 주자15 朱子十五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권119 주자16 朱子十六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권11 학5 學五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권120 주자17 朱子十七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권121 주자18 朱子十八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권122 여백공 呂伯恭",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권123 진군거 陳君舉",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권124 육씨 陸氏",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권125 노씨 老氏",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권126 석씨 釋氏",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권127 본조1 本朝一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권128 본조2 本朝二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권129 본조3 本朝三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권12 학6 學六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권130 본조4 本朝四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권131 본조5 本朝五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권132 본조6 本朝六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권133 본조7 本朝七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권134 역대1 歷代一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권135 역대2 歷代二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권136 역대3 歷代三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권137 전국한당제자 戰國漢唐諸子",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권138 잡류 雜類",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권139 논문상 論文上",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권13 학7 學七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권140 논문하(시) 論文下(詩)",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권14 대학1 大學一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권15 대학2 大學二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권16 대학3 大學三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권17 대학혹문상 大學四或問上",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권18 대학혹문하 大學五或問下",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권19 논어1 論語一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권1 리기상 理氣上",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권20 논어2 論語二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권21 논어3 論語三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권22 논어4 論語四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권23 논어5 論語五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권24 논어6 論語六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권25 논어7 論語七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권26 논어8 論語八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권27 논어9 論語九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권28 논어10 論語十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권29 논어11 論語十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권2 리기하 理氣下",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권30 논어12 論語十二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권31 논어13 論語十三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권32 논어14 論語十四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권33 논어15 論語十五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권34 논어16 論語十六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권35 논어17 論語十七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권36 논어18 論語十八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권37 논어19 論語十九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권38 논어20 論語二十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권39 논어21 論語二十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권3 귀신 鬼神",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권40 논어22 論語二十二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권41 논어23 論語二十三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권42 논어24 論語二十四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권43 논어25 論語二十五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권44 논어26 論語二十六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권45 논어27 論語二十七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권46 논어28 論語二十八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권47 논어29 論語二十九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권48 논어30 論語三十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권49 논어31 論語三十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권4 성리1 性理一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권50 논어32 論語三十二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권51 맹자1 孟子一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권52 맹자2 孟子二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권53 맹자3 孟子三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권54 맹자4 孟子四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권55 맹자5 孟子五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권56 맹자6 孟子六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권57 맹자7 孟子七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권58 맹자8 孟子八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권59 맹자9 孟子九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권5 성리2 性理二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권60 맹자10 孟子十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권61 맹자11 孟子十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권62 중용1 中庸一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권63 중용2 中庸二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권64 중용3 中庸三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권65 역1 易一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권66 역2 易二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권67 역3 易三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권68 역4 易四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권69 역5 易五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권6 성리3 性理三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권70 역6 易六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권71 역7 易七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권72 역8 易八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권73 역9 易九",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권74 역10 易十",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권75 역11 易十一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권76 역12 易十二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권77 역13 易十三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권78 상서1 尚書一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권79 상서2 尚書二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권7 학1 學一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권80 시1 詩一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권81 시2 詩二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권82 효경 孝經",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권83 춘추 春秋",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권84 예1 禮一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권85 예2 禮二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권86 예3 禮三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권87 예4 禮四",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권88 예5 禮五",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권89 예6 禮六",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권8 학2 學二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권90 예7 禮七",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권91 예8 禮八",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권92 악 樂",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권93 공맹주정장자 孔孟周程張子",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권94 주자지서 周子之書",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권95 정자지서1 程子之書一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권96 정자지서2 程子之書二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권97 정자지서3 程子之書三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권98 장자지서1 張子之書一",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권99 장자지서2 張子書二",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:주자어류/권9 학3 學三",
+    "source_collection": "번역:주자어류",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중력의 장방정식",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중력장 방정식의 근사적 적분법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중력파에 대하여",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화민국헌법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 가격독점행위의 제지에 관한 잠정시행 규정",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 개인정보보호법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 계약법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 광고법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 광고법 (2015년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 광고법 (2018년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 노동계약법 (2012년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 노무파견임시규정",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 담보법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 민법전",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 민사소송법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 반독점법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 반부정당경쟁법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 반부정당경쟁법 (1993년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 반부정당경쟁법 (2017년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 부분상품보수교환환불책임규정",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 섭외민사관계법률적용법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 식품광고 관리조치법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 식품안전법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 외자기업법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 외자기업법 (2000년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 외자기업법 (2016년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 회사법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:중화인민공화국 회사법 (2013년)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/10권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/11권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/12권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/13권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/14권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/15권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/16권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/17권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/18권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/19권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/1권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/20권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/2권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/3권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/4권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/5권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/6권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/7권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/8권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/9권",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:지봉유설/서문",
+    "source_collection": "번역:지봉유설",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:천수천안관자재보살광대원만무애대비심대다라니경",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:천자문",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:태국력 2554년 국회 해산 칙령",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/10장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/11장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/12장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/13장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/14장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/1장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/2장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/3장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/4장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/5장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/6장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/7장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/8장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:톰 소여의 모험/9장",
+    "source_collection": "번역:톰 소여의 모험",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:평화의 길",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:포이어바흐에 관한 테제",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:프랑스 지적재산권법",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/1-1",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/1-2",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/1-3",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/1-4",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-1",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-10",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-11",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-12",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-13",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-14",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-15",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-16",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-17",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-18",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-19",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-2",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-20",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-21",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-22",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-23",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-24",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-25",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-26",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-3",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-4",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-5",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-6",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-7",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-8",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/2-9",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-11",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-16a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-18a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-19",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-19a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-19b",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-1a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-3a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-4a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-4b",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-4c",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5b",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5c",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5d",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5e",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5f",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5g",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-5h",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-6a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-6h",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-6i",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-7a",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/1장/3-7b",
+    "source_collection": "번역:피아노 연습의 원리/1장",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/나의 아내 Merry와 우리의 딸 Eileen과 Sue-Lynn에게",
+    "source_collection": "번역:피아노 연습의 원리",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/머리말",
+    "source_collection": "번역:피아노 연습의 원리",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/약어 및 자주 쓰이는 표현",
+    "source_collection": "번역:피아노 연습의 원리",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피아노 연습의 원리/추천의 글",
+    "source_collection": "번역:피아노 연습의 원리",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피터 래빗",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피터와 웬디/제1장",
+    "source_collection": "번역:피터와 웬디",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:피터와 웬디/제2장",
+    "source_collection": "번역:피터와 웬디",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:필리핀 외국인투자법 1991",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:하타요가프라디피카",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:하타요가프라디피카/1",
+    "source_collection": "번역:하타요가프라디피카",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:하타요가프라디피카/4",
+    "source_collection": "번역:하타요가프라디피카",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:한서",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:한서/권024상",
+    "source_collection": "번역:한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:한서/권095",
+    "source_collection": "번역:한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:해밀턴 원리와 일반 상대성 이론",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:헤겔 법철학 비판 서설",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:홍길동전 (36장 완판본)",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:홍콩특별행정구 조례 제362장 상품설명조례",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:화엄일승법계도",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:황사영 백서",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후출사표",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후한서",
+    "source_collection": "번역 namespace standalone",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후한서/권09",
+    "source_collection": "번역:후한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후한서/권52",
+    "source_collection": "번역:후한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후한서/권85",
+    "source_collection": "번역:후한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  },
+  {
+    "title": "번역:후한서/권90",
+    "source_collection": "번역:후한서",
+    "translator_type": "wikisource_user_translation",
+    "force_poem": false,
+    "relation": "",
+    "discovery": "translation_namespace_scan"
+  }
+]

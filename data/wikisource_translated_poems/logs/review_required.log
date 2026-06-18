@@ -1,0 +1,5 @@
+license	all collected entries retain source license/status text as review_required or public_domain_claimed_by_source; review_required.
+scope	translation namespace scan completed with 631 pages; non-poetry pages and novel/prose/scripture/law/manual pages were excluded.
+missing_pages	번역:악의 꽃/독자에게 and 번역:악의 꽃/나쁜 사제 were linked/discovered as candidates but are missing in the API and were not collected.
+duplicates	duplicate translations and same-title variants are retained with relation metadata and filename suffixes when needed.
+uncertain_metadata	original_title and original_language are blank where Wikisource rendered metadata did not expose reliable values.
